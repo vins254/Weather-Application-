@@ -9,37 +9,37 @@ This project demonstrates strong frontend development skills using HTML, CSS, an
 
 **##Features**
 
--Search weather by city name
+    -Search weather by city name
 
--Real-time temperature display
+    -Real-time temperature display
 
--Humidity levels
+    -Humidity levels
 
--Weather condition icons
+    -Weather condition icons
 
--Error handling for invalid city names
+    -Error handling for invalid city names
 
 
 **##Technologies Used**
 
--HTML5 – Structure and layout
+    -HTML5 – Structure and layout
 
--CSS3 – Styling and responsive design
+    -CSS3 – Styling and responsive design
 
--JavaScript (ES6) – Application logic and API handling
+    -JavaScript (ES6) – Application logic and API handling
 
--OpenWeatherMap API
+    -OpenWeatherMap API
 
 
 **##How It Works**
 
-1. User enters a city name.
+ 1. User enters a city name.
 
-2. JavaScript sends a request to the weather API using fetch().
+ 2. JavaScript sends a request to the weather API using fetch().
 
-3. The API responds with weather data in JSON format.
+ 3. The API responds with weather data in JSON format.
 
-4. The application dynamically updates the UI with the retrieved data.
+ 4. The application dynamically updates the UI with the retrieved data.
 
 
 **##Installation & Setup**
@@ -48,7 +48,7 @@ To run this project locally:
 
 1. Clone the repository:
 
-git clone https://github.com/vins254/Weather-Application-.git
+git clone https://github.com/vins254/Weather-    Application-.git
 
 2. Navigate into the project folder:
 
