@@ -20,7 +20,7 @@ This project demonstrates strong frontend development skills using HTML, CSS, an
 -Error handling for invalid city names
 
 
-##Technologies Used
+**##Technologies Used**
 
 -HTML5 – Structure and layout
 
@@ -31,7 +31,7 @@ This project demonstrates strong frontend development skills using HTML, CSS, an
 -OpenWeatherMap API
 
 
-##How It Works
+**##How It Works**
 
 1. User enters a city name.
 
@@ -42,7 +42,7 @@ This project demonstrates strong frontend development skills using HTML, CSS, an
 4. The application dynamically updates the UI with the retrieved data.
 
 
-##Installation & Setup
+**##Installation & Setup**
 
 To run this project locally:
 
