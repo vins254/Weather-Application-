@@ -80,7 +80,7 @@ function weatherDetails(info){
         wrapper.querySelector(".temp .numb-2").innerText = Math.floor(feels_like);
         wrapper.querySelector(".humidity span").innerText = `${humidity}%`;
 
-
+        inputField.value = "";
         infoTxt.classList.remove("pending", "error");
         wrapper.classList.add("active");
     }
