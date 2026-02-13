@@ -1,5 +1,7 @@
 **#Weather Forecast Web Application**
 
+Live Demo: https://vins254.github.io/Weather-Application-/
+
 The Weather Forecast Web Application is a responsive web-based application that provides real-time weather information for any city worldwide. The application fetches live weather data from a public weather API and displays essential weather metrics in a clean and user-friendly interface.
 This project demonstrates strong frontend development skills using HTML, CSS, and JavaScript, along with API integration and asynchronous data handling.
 
@@ -54,7 +56,4 @@ git clone https://github.com/vins254/Weather-    Application-.git
 
 3. Open index.html in your browser.
 
-
-
-Live Demo: https://vins254.github.io/Weather-Application-/
 
