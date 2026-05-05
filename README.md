@@ -68,7 +68,3 @@ To run this project locally on your machine:
 Contributions are welcome! Feel free to fork the repository and submit pull requests to improve the design or add new features.
 
 ---
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
